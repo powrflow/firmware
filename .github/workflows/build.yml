@@ -81,8 +81,6 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - project: esp-web-tools
-            name: ESP Web Tools
           - project: esphome-web
             name: ESPHome Web
     steps:
