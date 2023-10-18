@@ -17,6 +17,7 @@ esp32:
 
 # Enable logging
 logger:
+  level: DEBUG
 
 # Allow Over-The-Air updates
 ota:
