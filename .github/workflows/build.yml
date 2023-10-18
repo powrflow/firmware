@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  FIRMWARES: esp-web-tools esphome-web
+  FIRMWARES: esphome-web powrflow-bootstrap
 
 jobs:
   prepare:
